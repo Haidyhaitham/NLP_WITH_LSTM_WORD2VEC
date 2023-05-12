@@ -1,2 +1,3 @@
 # NLP_WITH_LSTM_WORD2VEC
 This is a model created by training and testing LSTM(Long-Short-Term-Memory) after applying pre processing to our data of type texts and representing the data using WORD2VEC
+The data was about sentiment analysis downloaded from KAGGLE , the label was specified as multi classification positive , negative and neutral . Data preproccessing using KERAS was applied as tokenization , stop words , and etc . For representations , word2vec was used . Then the data was splitted to training and testing . LSTM model was used for training and testing to see how it will work in ou data with the collaboration with my colleague Mahmoud hossam . Hope this project helps you . Enjoy
